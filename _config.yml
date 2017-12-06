@@ -1,14 +1,14 @@
 
 title: My Resume
-url: 'http://mrdroid17.github.io'
-baseurl: '/testing_project_pages/' #change it according to your repository name
+url: 'http://mrdrod17.github.io'
+baseurl: 'testing_project_pages' #change it according to your repository name
 
 
 
 # Profile information
 yourname: Sobhit Kumar  ## put your name
-title: Android App Developer  ## your title
-location: New Delhi , India
+title: 'Android App Developer'  ## your title
+location: New Delhi, India
 
 
 ## Social Profiles
